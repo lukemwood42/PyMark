@@ -1,0 +1,16 @@
+[types]
+is-complete: [0..6]
+cms: [0..100
+pass = 30
+merit = 60
+distinction = 90]
+[attributes]
+ex1: is-complete
+ex2: is-complete
+ex3: is-complete
+[rules]
+pass: ex1=1 or ex2=1 or ex3=1
+merit: ex2=3 and ex2=3 and ex3=3
+distinction: ex1=5 and 1 of {ex2=5, ex3=5}
+[results]
+final-mark: cms

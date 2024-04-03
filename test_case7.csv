@@ -1,0 +1,13 @@
+[types]
+out-of-5: [1..5]
+cms: [0..100
+pass = 40
+distinction=70]
+[attributes]
+ex1: out-of-5
+ex2: out-of-5
+[rules]
+pass: 200% ex1=1 or ex2=1
+distinction: ex1=4 and 200% ex2=4
+[results]
+final-mark: cms

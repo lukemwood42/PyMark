@@ -1,0 +1,19 @@
+[types]
+type1: [0..19]
+type_result: [0..100
+r1=83
+r2=85]
+[attributes]
+a1: type1
+a2: type1
+a3: type1
+a4: type1
+[rules]
+r1: 1 of {a4=3,a3=5}
+r1: 400% a1=7
+r1: a2=10
+r2: 1 of {a3=13}
+r2: a4=14
+r2: a2=19
+[results]
+final_mark : type_result

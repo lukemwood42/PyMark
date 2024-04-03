@@ -1,0 +1,26 @@
+pass=40 max passing score: 0.933333333333, with attributes ['essay=4']
+pass=40 max passing score: 0.5, with attributes ['ex1=3']
+
+test1Lower=20 max passing score: 0.5, with attributes ['ex2=3', 'ex1=3']
+test1Upper=40 max passing score: 0.555555555556, with attributes ['ex1=3']
+test2Lower=60 max passing score: 0.5, with attributes ['ex1=4']
+
+pass=30 max passing score: 0.555555555556, with attributes ['ex2=3', 'ex1=3']
+merit=60 max passing score: 0.666666666667, with attributes ['ex1=4']
+
+pass=30 max passing score: 0.84, with attributes ['ex2=3']
+merit=60 max passing score: 1.0, with attributes ['ex1=5']
+
+pass=20 max passing score: 0.875, with attributes ['ex3=2']
+merit=50 max passing score: 0.75, with attributes ['ex1=3']
+
+pass=30 max passing score: 0.875, with attributes ['ex3=2']
+merit=60 max passing score: 0.75, with attributes ['ex1=3']
+
+pass=40 max passing score: 0.9, with attributes ['ex2=3']
+
+pass=20 max passing score: 0.5, with attributes ['ex1=3']
+merit=50 max passing score: 0.361111111111, with attributes ['ex1=4']
+
+pass=40 max passing score: -0.75, with attributes ['ex1=2']
+r1=8 max passing score: 1.0, with attributes ['a4=2']r2=10 max passing score: 0.972222222222, with attributes ['a5=2']r3=30 max passing score: 0.833333333333, with attributes ['a5=3']r4=54 max passing score: 0.977777777778, with attributes ['a3=3']r1=72 max passing score: 0.75, with attributes ['a2=9']r1=24 max passing score: 0.9, with attributes ['a3=6']r2=38 max passing score: 0.956790123457, with attributes ['a5=8']r3=48 max passing score: 1.0, with attributes ['a2=11']r4=69 max passing score: 0.944444444444, with attributes ['a3=12']r1=83 max passing score: 0.962962962963, with attributes ['a2=19']

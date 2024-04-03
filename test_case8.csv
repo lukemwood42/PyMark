@@ -1,0 +1,15 @@
+[types]
+out-of-5: [1..5]
+is-complete: [no, yes]
+cms: [0..100
+pass = 20
+merit=50
+distinction=80]
+[attributes]
+ex1: out-of-5
+[rules]
+pass: ex1=1
+merit: ex1=3 or ex1=2 and ex1=4
+distinction: 2 of {ex1=4, ex1=4, ex1=5}
+[results]
+final-mark: cms

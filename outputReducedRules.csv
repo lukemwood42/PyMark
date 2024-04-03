@@ -1,0 +1,41 @@
+pass maximum passing score:  0.933333333333 with attributes ['essay=B', 'ex2=5', 'ex1=5']
+
+pass maximum passing score:  0.5 with attributes ['ex2=3', 'ex1=2']
+
+test1Lower maximum passing score:  0.5 with attributes ['ex2=2', 'ex1=2']
+test1Upper maximum passing score:  0.555555555556 with attributes ['ex2=5', 'ex1=2']
+test2Lower maximum passing score:  0.5 with attributes ['ex2=5', 'ex1=3']
+
+pass maximum passing score:  0.555555555556 with attributes ['ex2=2', 'ex1=2']
+merit maximum passing score:  0.666666666667 with attributes ['ex2=4', 'ex1=3']
+
+pass maximum passing score:  0.84 with attributes ['ex2=2', 'ex3=6', 'ex1=6']
+merit maximum passing score:  1.0 with attributes ['ex2=6', 'ex3=6', 'ex1=4']
+
+pass maximum passing score:  0.875 with attributes ['essay=yes', 'ex2=2', 'ex3=5', 'ex1=5']
+merit maximum passing score:  1.0 with attributes ['essay=no', 'ex2=5', 'ex3=5', 'ex1=5']
+
+pass maximum passing score:  0.875 with attributes ['essay=yes', 'ex2=2', 'ex3=5', 'ex1=5']
+merit maximum passing score:  0.75 with attributes ['essay=yes', 'ex2=5', 'ex3=5', 'ex1=3']
+
+pass maximum passing score:  0.9 with attributes ['ex2=3', 'ex1=5']
+
+pass maximum passing score:  0.0 with attributes ['ex1=1']
+merit maximum passing score:  No passing score available with attributes N/A
+
+pass maximum passing score:  No passing score available with attributes N/A
+
+r1 maximum passing score:  1.0 with attributes ['a1=x2', 'a3=x1', 'a2=x2', 'a5=x5', 'a4=x2']
+r2 maximum passing score:  0.916666666667 with attributes ['a1=x2', 'a3=x4', 'a2=x2', 'a5=x2', 'a4=x5']
+r3 maximum passing score:  0.222222222222 with attributes ['a1=x2', 'a3=x4', 'a2=x2', 'a5=x3', 'a4=x5']
+r4 maximum passing score:  0.95 with attributes ['a1=x2', 'a3=x3', 'a2=x2', 'a5=x5', 'a4=x5']
+
+r1 maximum passing score:  0.75 with attributes ['a1=11', 'a2=8']
+
+r1 maximum passing score:  0.85 with attributes ['a1=14', 'a3=5', 'a2=14', 'a5=14', 'a4=14']
+r2 maximum passing score:  0.935185185185 with attributes ['a1=14', 'a3=14', 'a2=14', 'a5=7', 'a4=14']
+r3 maximum passing score:  1.0 with attributes ['a1=14', 'a3=14', 'a2=10', 'a5=14', 'a4=14']
+r4 maximum passing score:  0.833333333333 with attributes ['a1=14', 'a3=11', 'a2=14', 'a5=14', 'a4=14']
+
+r1 maximum passing score:  0.972222222222 with attributes ['a1=19', 'a3=19', 'a2=18', 'a4=19']
+

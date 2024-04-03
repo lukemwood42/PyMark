@@ -1,0 +1,17 @@
+[types]
+is-complete: [0..5]
+cms: [0..100
+test1Lower = 20
+test1Upper = 40
+test2Lower = 60
+test2Upper = 80]
+[attributes]
+ex1: is-complete
+ex2: is-complete
+[rules]
+test1Lower: ex1=1 or ex2=1
+test1Upper: ex1=3 or ex2=3
+test2Lower: ex1=3 and ex2=3
+test2Upper: ex1=4 and ex2=4
+[results]
+final-mark: cms

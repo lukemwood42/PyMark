@@ -1,0 +1,13 @@
+[types]
+is-complete: [0..3]
+cms: [0..100
+pass = 40
+distinction=70]
+[attributes]
+ex1: is-complete
+ex2: is-complete
+[rules]
+pass: ex1=1
+distinction: ex1=3
+[results]
+final-mark: cms

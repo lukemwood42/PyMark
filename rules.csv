@@ -1,0 +1,16 @@
+[types]
+out-of-5: [1..5]
+essay-grade: [F, D, C, B, A]
+cms: [0..100
+pass = 40
+distinction=70]
+[attributes]
+ex1: out-of-5
+ex2: out-of-5
+essay: essay-grade
+[rules]
+pass: ex1=2 or ex2=2 or essay=D
+distinction: ex1=4 and ex2=4
+distinction: essay=A
+[results]
+final-mark: cms
